@@ -1,0 +1,22 @@
+{
+    "todos":[
+        {
+            "title": "Tarea 1",
+            "responsable": "Mark",
+            "description": "Ponete a programar",
+            "priority": "HIGH"
+        },
+        {
+            "title": "Tarea 2",
+            "responsable": "Ryan",
+            "description": "Limpieza",
+            "priority": "MEDIUM"
+        },
+        {
+            "title": "Tarea 3",
+            "responsable": "Pep",
+            "description": "Echar a Valverde",
+            "priority": "CRUCIAL"
+        }
+    ]
+}
